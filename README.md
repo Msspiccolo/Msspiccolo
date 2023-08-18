@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**Msspiccolo/Msspiccolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou a Maria Stella! 👋
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+Eu sou estudante de Sistema de Informação da Uniara, tenho 21 anos👩🏻‍💻
+Sou formada na instituição ETEC Paulino Botelho no curso Ensino Médio com habilitação técnica profissional em administração.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Habilidades
+C, C#, Java, Python, HTML, Javascript, SQL 
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-stella-sim%C3%B5es-piccolo-22b138220/)
+
